@@ -210,8 +210,7 @@ The primary focus is on verifying contact information, especially email addresse
 #### YouTube-dl [YouTube/Facebook/Twitter/X]
 | Command / Query | Description |
 | --- | --- |
-| `sudo apt install snapd` | Install snapd. |
-| `sudo snap install youtube-dl` | Download the YouTube-dl snap package. |
+| `sudo -H pip install --upgrade youtube-dl` | Install snapd. |
 | `youtube-dl -h` | Show the help options for YouTube-dl. |
 | `youtube-dl <url>` | Download a video. |
 
