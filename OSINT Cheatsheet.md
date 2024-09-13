@@ -228,7 +228,12 @@ The primary focus is on verifying contact information, especially email addresse
 | --- | --- |
 | `python3 ./sf.py -l 127.0.0.1:5001` | After moving to the relevant folder, run the spiderfoot script and then navigate to it in your browser. |
 | `spiderfoot -l 127.0.0.1:5001` | Alternatively, run the Kali native version of spiderfoot. |
-
+**Module options on Spiderfoot for personell checking:**
+1. Social Network Identifier
+2. DuckDuckGo
+3. Account Finder
+4. Instagram
+5. Ahmia
 
 
 ---
