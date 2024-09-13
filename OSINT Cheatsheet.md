@@ -228,3 +228,12 @@ The primary focus is on verifying contact information, especially email addresse
 | --- | --- |
 | `python3 ./sf.py -l 127.0.0.1:5001` | After moving to the relevant folder, run the spiderfoot script and then navigate to it in your browser. |
 | `spiderfoot -l 127.0.0.1:5001` | Alternatively, run the Kali native version of spiderfoot. |
+
+
+
+---
+## How to Submit Evidence
+For the National Missing Persons Hackathon 2024.
+| Path | Description |
+| --- | --- |
+| `Investigations > Cases` | Add a piece of evidence at this path. The entries can be written in **mark down language**. The date field is *not* mandatory.  |
